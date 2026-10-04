@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream - All Video Downloader",
+  "description": "Download videos, reels, shorts & audio from Facebook, YouTube, TikTok, Instagram & 500+ platforms instantly in high quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
